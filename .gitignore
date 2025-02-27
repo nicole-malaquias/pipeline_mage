@@ -16,3 +16,6 @@ secrets/
 # Ignore a virtual environment
 venv/
 .venv/
+
+io_config.yaml
+key.json
